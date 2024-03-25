@@ -18,8 +18,8 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 2. Esecuzione logica:
     - [ ] Calcolare il prezzo totale del biglietto: Moltiplicando il numero di chilometri per 0.21
     - [ ] Controllare l'età del passeggero per le seguenti casistiche: 
-        - Minorenni (età < 18)
-        - Over 65 (età >= 65)
+        - Minorenni (età < 18) 20% di sconto
+        - Over 65 (età >= 65) 40% di sconto
     - [ ] Apliccare lo sconto giusto all'interno dei blocchi dei costrutti if else.
 
 3. Output:
