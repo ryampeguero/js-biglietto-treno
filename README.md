@@ -24,3 +24,10 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 3. Output:
     - [ ] Prezzo finale stampato in pagina in forma umana (Massimo due decimali).
+
+## Visualizzazione pagina
+### Minorenne
+![Biglietto Minorenne](./img/minorenne.png)
+
+### Over 65
+![Biglietto Over 65](./img/over_65.png)
