@@ -3,10 +3,10 @@ let price;
 
 //Raccolta dati
 const kilometer = parseInt(prompt("Quanti chilometri vuoi percorrere?")); // number
-const age = parseInt(prompt("Quanti anni hai?"));
+const age = parseInt(prompt("Quanti anni hai?")); // number
 
 //Esecuzione logica
-price = kilometer * 0.21;
+price = kilometer * 0.21; // number
 console.log(price);
 if (age > 0 && age < 18) {
     price = price - (price * 0.20);
